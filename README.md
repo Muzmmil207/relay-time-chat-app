@@ -1,0 +1,1 @@
+# This is a relay time chat application built with Django & Channels
